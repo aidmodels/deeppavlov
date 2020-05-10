@@ -1,0 +1,7 @@
+[package]
+name="Deeppavlov"
+vendor="aidmodels"
+
+[[solvers]] 
+name="sampleSolver"
+class="Deeppavolv/solver/SampleSolver"
